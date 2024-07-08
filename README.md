@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Cristiano Cruz  👋
 
- - 🌱 Cursando JAVA
-- 👾 Gosto de Estudar Hacking 
+ - 🌱 Estudante de Cyber Security
+- 👾 Estudando mais sobre hacking - hardware hacking
 - 📧 contate-me pelo email: cruzcristianno@gmail.com
 
 
