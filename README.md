@@ -1,9 +1,9 @@
 # 👨‍💻 Cristiano Cruz
 
-**Cybersecurity | Infraestrutura | Desenvolvimento**
+**Cybersecurity | Infraestrutura | Hacking**
 
-- 🌱 Estudante de Cyber Security  
-- 👾 Foco em hacking e hardware hacking  
+- 🌱 Analista de Segurança da Informação - SOC - Blue Team  
+- 👾 Foco em hacking  
 - 📧 cruzcristianno@gmail.com  
 
 ---
@@ -11,8 +11,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CristianoCruz10&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoCruz10&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CristianoCruz10&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoCruz10&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </div>
 
 ---
@@ -38,7 +38,8 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cruzcristianno@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cruzcristianno@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-cruzz/)
 
 </div>
